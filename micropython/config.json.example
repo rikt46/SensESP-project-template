@@ -1,0 +1,14 @@
+{
+  "wifi_ssid": "your_ssid",
+  "wifi_password": "your_password",
+  "sk_server": "http://192.168.10.3:3000",
+  "analog_pin": 36,
+  "analog_interval_ms": 500,
+  "analog_threshold": 0.01,
+  "digital_input_pin": 14,
+  "digital_input_poll_ms": 50,
+  "digital_output_pin": 15,
+  "digital_output_interval_ms": 650,
+  "use_ws": false,
+  "publish_enabled": false
+}
